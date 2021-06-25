@@ -9,7 +9,7 @@
 /* Common */
 
 .container {
-    width: 70%;
+    width: 60%;
     margin: auto;
 }
 
@@ -17,4 +17,19 @@
     content: "";
     display: table;
     clear: both;
+}
+
+/* Intestazione */
+
+header {
+    height: 100px;
+    background-color: #e579e6;
+    margin: 25px 0;
+}
+
+/* Main */
+
+.upper-section {
+    height: 500px;
+    background-color: #e1d67a;
 }
